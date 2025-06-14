@@ -4,6 +4,8 @@
   <head>
     <meta charset="UTF-8" />
     <title> Lexitrix</title>
+    <link rel="icon" type="image/jpeg" href="https://i.postimg.cc/Y0JRSkhL/bd20fb32-ea8b-4a3a-890a-fc860146e2d4.jpg" />
+
     <style>
       /* ======== RESET CƠ BẢN ======== */
       * {
