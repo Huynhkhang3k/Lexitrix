@@ -445,7 +445,6 @@
     <!-- ======== HEADER BAR ======== -->
     <div class="header-bar">
       <div class="header-bar-left">
-        <img src="https://files.catbox.moe/agoce3.png" alt="Avatar" class="avatar" />
         <label for="classSelect">Chọn Lớp:</label>
         <select id="classSelect">
           <option value="6">Lớp 6</option>
