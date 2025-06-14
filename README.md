@@ -3,7 +3,7 @@
 <html lang="vi">
   <head>
     <meta charset="UTF-8" />
-    <title>Quiz English Learning</title>
+    <title> Lexitrix</title>
     <style>
       /* ======== RESET CƠ BẢN ======== */
       * {
