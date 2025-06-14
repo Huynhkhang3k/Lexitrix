@@ -480,7 +480,7 @@
 
     <!-- ======== HIỂN THỊ TIMER & QUIZ ======== -->
     <div id="timer"></div>
-    <div id="quiz"></div>
+    <div id=" Lexitrix "></div>
 
     <!-- ======== CANVAS PHÁO HOA ======== -->
     <canvas id="fireworksCanvas"></canvas>
